@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hey! 👋
+
+Thanks for coming by. My name is Brian Pulfer and I am currently a Ph.D student in Machine Learning at the University of Geneva, Switzerland 🇨🇭.
+
+I am fascinated by the elegance and power of Machine Learning and I am currently learning as much as possible to maximize my positive impact on humanity.
+
+
+## Useful Links 🔗
+[🌐 Website](https://www.brianpulfer.ch) [🐦 Twitter](https://twitter.com/PulferBrian21), [👔 LinekdIn](https://www.linkedin.com/in/BrianPulfer/)
+
 
 <!--
 **BrianPulfer/BrianPulfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
