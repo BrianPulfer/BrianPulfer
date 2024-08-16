@@ -1,25 +1,5 @@
-## Hey! 👋
+## Brian Pulfer
 
-Thanks for coming by. My name is Brian Pulfer and I am currently a Ph.D student in Machine Learning at the University of Geneva, Switzerland 🇨🇭.
+Ph.D student in Machine Learning. Techo-Optimist. e/acc.
 
-I am fascinated by the elegance and power of Machine Learning and I am currently learning as much as possible to maximize my positive impact on humanity.
-
-
-## Useful Links 🔗
-[🌐 Website](https://www.brianpulfer.ch) [🐦 Twitter](https://twitter.com/PulferBrian21), [👔 LinekdIn](https://www.linkedin.com/in/BrianPulfer/)
-
-
-<!--
-**BrianPulfer/BrianPulfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[🌐 Website](https://www.brianpulfer.ch) [🐦 X](https://x.com/Peutlefaire), [👔 LinekdIn](https://www.linkedin.com/in/BrianPulfer/)
